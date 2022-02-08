@@ -1,20 +1,20 @@
-# Open Finder ~ Search GitHub Users and their Top Repos
+# Open Finder - Search GitHub Users and their Top Repos
 
 ## Homepage
 
-![alt text](https://github.com/MBA-997/Open-Finder/blob/main/src/pictures/home.PNG?raw=true)
+![alt text](https://github.com/MBA-997/Open-Finder/blob/main/pictures/home.PNG)
 
 ## Search GitHub Users
 
-![alt text](https://github.com/MBA-997/Open-Finder/blob/main/src/pictures/search-user.PNG?raw=true)
+![alt text](https://github.com/MBA-997/Open-Finder/blob/main/pictures/search-user.PNG)
 
 ## GitHub User Top five Repos
 
-![alt text](https://github.com/MBA-997/Open-Finder/blob/main/src/pictures/gets-top-5-repos.PNG?raw=true)
+![alt text](https://github.com/MBA-997/Open-Finder/blob/main/pictures/gets-top-5-repos.PNG)
 
 ## Error - When No such User is Found
 
-![alt text](https://github.com/MBA-997/Open-Finder/blob/main/src/pictures/user-not-find.PNG?raw=true)
+![alt text](https://github.com/MBA-997/Open-Finder/blob/main/pictures/user-not-find.PNG)
 
 ## 📖 Description
 
